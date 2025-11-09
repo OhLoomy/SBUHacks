@@ -22,3 +22,20 @@ Through PrimeTime, we learned how to implement C++ in a embedded system (Arduino
 
 ## What's next for PrimeTime
 Next, we plan to expand PrimeTime by adding customizable time intervals, buzzer notifications, and maybe even Bluetooth or app integration for session tracking. The goal is to evolve it from a simple LED timer into a smart, productivity-focused companion for students.
+
+## Usage
+
+1 - Upload the Arduino code in Arduino IDE.
+2 - Change the time you want the timer to go off in line 4 of PrimeTime.cpp
+3 - Press the button to start your study session.
+4 - LED stays on for the session duration and turns off automatically.
+
+## Hardware
+- Arduino Nano (1)
+- USB cable (1)
+- LED (1)
+- Push button (1)
+- 220Ω resistor (1)
+- 10000Ω resistor (1)
+- Breadboard (1)
+- Male to female jumper wires (5)
