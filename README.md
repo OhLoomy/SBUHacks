@@ -1,4 +1,4 @@
-PrimeTime – Minimalist Arduino Study Timer
+## PrimeTime – Minimalist Arduino Study Timer
 
 PrimeTime is a simple, distraction-free study timer built with an Arduino. It uses a single button and an LED to help students stay focused, without relying on apps or screens.
 
