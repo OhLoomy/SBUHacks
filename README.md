@@ -25,10 +25,10 @@ Next, we plan to expand PrimeTime by adding customizable time intervals, buzzer 
 
 ## Usage
 
-1 - Upload the Arduino code in Arduino IDE.
-2 - Change the time you want the timer to go off in line 4 of PrimeTime.cpp
-3 - Press the button to start your study session.
-4 - LED stays on for the session duration and turns off automatically.
+- Upload the Arduino code in Arduino IDE.
+- Change the time you want the timer to go off in line 4 of PrimeTime.cpp
+- Press the button to start your study session.
+- LED stays on for the session duration and turns off automatically.
 
 ## Hardware
 - Arduino Nano (1)
